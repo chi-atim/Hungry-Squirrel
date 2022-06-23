@@ -1,5 +1,9 @@
 ## Game name: Hungry Squirrel
 
+
+![image](https://user-images.githubusercontent.com/25395370/175237683-c4215e62-fc5c-4d24-a57a-0e0e85c6f72a.png)
+
+
  - The player controls a hungry squirrel.
  - Player's purpose is to make the hungry squirrel eat acorns and keep him alive.
  - On the screen, player will see a hungry squirrel in the forest, waiting for an acorn to fall.
