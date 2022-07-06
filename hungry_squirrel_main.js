@@ -236,9 +236,13 @@ function makeObjectFall(){
         }
     }
 }
+
 function speedRand(){
 	return Math.floor(Math.random()*10)+3;
 }
+
 function posXrand(){
 	return Math.floor(Math.random()*10)*100;
 }
+
+
